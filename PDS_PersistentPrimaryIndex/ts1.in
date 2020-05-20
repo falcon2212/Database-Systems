@@ -1,0 +1,14 @@
+OPEN newdemo 0
+STORE 22 0
+CLOSE 0
+OPEN newdemo 0
+STORE 12 0
+CLOSE 0
+OPEN newdemo 0
+CLOSE 0
+OPEN newdemo 0
+STORE 12 0
+CLOSE 0
+OPEN newdemo 0
+STORE 121 0
+CLOSE 0

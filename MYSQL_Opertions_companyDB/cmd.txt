@@ -1,0 +1,5 @@
+source create_companydb.sql;
+source alter_companydb.sql;
+source insert_companydb.sql;
+source update_companydb.sql;
+source drop_companydb.sql;
